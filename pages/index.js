@@ -26,7 +26,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           Hi my name is <strong>Ian</strong> and I'm a developer. This is just
-          something random. Another random change.
+          something random. Another random change. And another one.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
